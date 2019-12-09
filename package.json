@@ -1,0 +1,26 @@
+{
+  "name": "ne-footer-copyright",
+  "version": "0.1.0",
+  "description": "This is for a js project to generate a copyright for your footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estronzanicole/ne-footer-copyright.git"
+  },
+  "keywords": [
+    "footer",
+    "copyright"
+  ],
+  "author": "Nicole Estronza <estronzanicole@gmail.com> (https://www.npmjs.com/~nicoleestronza)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estronzanicole/ne-footer-copyright/issues"
+  },
+  "homepage": "https://github.com/estronzanicole/ne-footer-copyright#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
